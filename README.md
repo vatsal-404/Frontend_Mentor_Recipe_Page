@@ -12,8 +12,8 @@ Thanks for checking out this front-end coding challenge.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/vatsal-404/Frontend_Mentor_Recipe_Page/tree/main)
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [solution URL](https://github.com/vatsal-404/Frontend_Mentor_Recipe_Page/tree/main)
+- Live Site URL: [live site URL ](https://frontend-mentor-recipe-page-ochre.vercel.app/)
 
 ## The challenge
 
